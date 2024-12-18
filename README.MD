@@ -1,6 +1,25 @@
-# Giveaway Bot | SanderHD
-This is my First Open Source Project, a Discord Bot for hosting giveaways. 
-Build on discord.js v14 with NodeJS v22.
----
+<h1 align="center" id="title">Giveaway Bot</h1>
+
+<p id="description">A open source discord bot for hosting and managing giveaways.</p>
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Hosting a Giveaway
+*   Managing a Giveaway
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   NodeJS
+*   SQLite3
+
+
 Preview <br>
 ![Preview](preview.png)
